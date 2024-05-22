@@ -32,7 +32,7 @@ Emosense Analytics provides critical insights into audience sentiment, enabling 
 * Frontend: The user-facing part of a software application, including graphical user interfaces and interactive elements.
 * Backend: The underlying infrastructure responsible for data processing and business logic in a software application.
 * Node.js: A JavaScript runtime environment for executing server-side code, used to build scalable network applications.
-* React.js: A JavaScript library for building user interfaces, known for its component-based architecture and efficient rendering.
+* React.js: A frontend framework for building user interfaces, known for its component-based architecture and efficient rendering.
 * MongoDB: A document-oriented database that supports flexible data storage and retrieval, essential for the project's functionality.
 * Flask: A lightweight WSGI web application framework in Python, used to build the backend server for this project.
 * Authentication: Security measures to verify user identities and control access to system resources, often managed using protocols like OAuth 2.0 or JSON Web Tokens (JWT).
