@@ -6,3 +6,5 @@ nltk
 keras
 matplotlib
 flask-cors
+keras_preprocessing
+
