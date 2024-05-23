@@ -1,5 +1,5 @@
 flask==3.0.2
-gunicorn==20.1.0
+gunicorn == 22.0.0
 Flask
 pandas
 nltk
@@ -7,4 +7,4 @@ keras
 matplotlib
 flask-cors
 keras_preprocessing
-
+tensorflow
