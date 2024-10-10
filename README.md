@@ -43,3 +43,7 @@ Emosense Analytics provides critical insights into audience sentiment, enabling 
 #### Backend Development: Flask for server-side operations and API development.
 #### Node.js: Used for handling asynchronous operations and backend logic.
 #### Database: MongoDB for secure, scalable data storage and retrieval.
+
+## Video Explanation 
+https://github.com/user-attachments/assets/870fe503-f4a4-4a2e-81b1-1612a76c00fc
+
